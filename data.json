@@ -1,0 +1,32 @@
+[
+        {
+            "id": "canvas-1",
+            "date": ["1941","165"],
+            "population": ["7","6"]
+        },
+        {
+            "id": "canvas-2",
+            "date": "1951",
+            "population": "9"
+        },
+        {
+            "id": "canvas-3",
+            "date": "1961",
+            "population": "11"
+        },
+        {
+            "id": "canvas-4",
+            "date": "1971",
+            "population": "14"
+        },
+        {
+            "id": "canvas-5",
+            "date": "1981",
+            "population": "6"
+        },
+        {
+            "id": "canvas-6",
+            "date": "1991",
+            "population": "10"
+        }
+    ]
